@@ -14,7 +14,7 @@
     <name>ponto-all-v0</name>
     <description>ponto-all-v0</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>16</java.version>
         <org.mapstruct.version>1.5.1.Final</org.mapstruct.version>
     </properties>
     <dependencies>
